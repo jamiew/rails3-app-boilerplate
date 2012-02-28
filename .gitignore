@@ -1,0 +1,10 @@
+.bundle
+.DS_Store
+.gems
+.sass-cache
+*.tmproj
+config/s3.yml
+db/*.sqlite3
+log/*.log
+tmp/
+public/system
